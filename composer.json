@@ -1,0 +1,17 @@
+{
+  "name": "dlavineway/php8.0",
+  "authors": [
+    {
+      "name": "David Lavineway",
+      "email": "david.lavineway@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "app\\": "./src"
+    }
+  },
+  "require": {
+    "php": "^8.0"
+  }
+}
